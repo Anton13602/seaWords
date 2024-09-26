@@ -1,0 +1,12 @@
+{
+  "splash-setting": {
+    "url": "/Users/a.kochetov/cocos/test/assets/images/logo.png",
+    "clearColor": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "displayWatermark": false
+  }
+}
